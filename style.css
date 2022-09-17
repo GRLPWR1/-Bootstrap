@@ -1,0 +1,19 @@
+.container {
+    width: 80vh;
+    margin-top: 10vh;
+}
+.colbg {
+    background-color:cornflowerblue;
+}
+.row1 {
+    height: 200px;
+}
+.row2 {
+    height: 100px;
+}
+.rowTitle {
+    height: 20%;
+}
+.rowBuyBox {
+    height: 80%;
+}
